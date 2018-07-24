@@ -1,0 +1,36 @@
+Démo plus pertinentes
+menge.exe -p ../examples/core/office.xml
+
+
+cd C:\Projet\Menge\Exe
+
+menge.exe -p ../examples/core/tradeshow.xml
+
+Navigation
+menge.exe -p ../examples/core/globalNavSwap-navmesh.xml
+menge.exe -p ../examples/core/globalNavSwap-roadmap.xml
+menge.exe -p ../examples/core/maze-navmesh.xml
+menge.exe -p ../examples/core/maze-roadmap.xml
+
+Navigation + but
+menge.exe -p ../examples/core/goalDistance.xml
+menge.exe -p ../examples/core/persistGoal.xml
+menge.exe -p ../examples/core/randomGoal.xml
+menge.exe -p ../examples/core/sharedGoal.xml
+
+Navigation + 3D + vision
+menge.exe -p ../examples/core/navMesh.xml
+
+But
+menge.exe -p ../examples/core/event.xml
+
+Complexe!
+menge.exe -p ../examples/core/soccer.xml
+menge.exe -p ../examples/core/stadium.xml
+
+Maybe
+menge.exe -p ../examples/core/boolean.xml
+
+
+
+Voir tuto tous à la fin!!!
