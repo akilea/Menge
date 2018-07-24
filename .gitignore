@@ -19,3 +19,13 @@ doc/output
 doc/tags
 examples/**/*.png
 .db-wal,.db-shm,.db
+projects/VS2015/Plugins/.vs/Plugins15/v15/Solution.VC.db-shm
+projects/VS2015/Plugins/.vs/Plugins15/v15/Browse.VC.db
+projects/VS2015/Menge/.vs/Menge15/v15/Solution.VC.db-wal
+projects/VS2015/Menge/.vs/Menge15/v15/Solution.VC.db-shm
+projects/VS2015/Menge/.vs/Menge15/v15/Browse.VC.db
+projects/VS2015/Plugins/.vs/Plugins15/v15/Solution.VC.db-wal
+projects/VS2015/Plugins/.vs/Plugins15/v15/Solution.VC.db
+projects/VS2015/Menge/log.css
+projects/VS2015/Menge/.vs/Menge15/v15/Solution.VC.db
+projects/VS2015/Menge/log.html
